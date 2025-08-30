@@ -3,19 +3,19 @@ int main()
 {
     int first;
     printf("Enter the First Number %d",first);
-    scanf("%d",first);
+    scanf("%d",&first);
     
     int second;
     printf("Enter the Second Number %d",second);
-    scanf("%d",second);
+    scanf("%d",&second);
     
     int third;
     printf("Enter the Third Number %d",third);
-    scanf("%d",third);
+    scanf("%d",&third);
     
     int fourth;
     printf("Enter the Fourth Number %d",fourth);
-    scanf("%d",fourth);
+    scanf("%d",&fourth);
     
     if (first>second && first>third && first>fourth)
         {printf("The Greatest Number is %d", first);}
