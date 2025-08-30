@@ -23,7 +23,7 @@ int main()
     else if (second>first && second>third && second>fourth)
         {printf("The Greatest Number is %d", second);}
         
-    else if (third>second && third>first && first>fourth)
+    else if (third>second && third>first && third>fourth)
         {printf("The Greatest Number is %d", third);}
         
     else if (fourth>second && fourth>third && fourth>first)
