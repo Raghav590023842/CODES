@@ -4,7 +4,7 @@
 int main()
 {
 	int i;
-	printf("1,2,3,");
+	printf("2,3,");
 	for (i=4;i<=20;i++)
 	{
 		if (i%2!=0)
@@ -17,3 +17,4 @@ int main()
 	}
 	return 0;
 }
+
