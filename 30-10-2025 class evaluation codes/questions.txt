@@ -1,0 +1,8 @@
+q1) WAP to open a file and check whether the file is empty or contain some text.
+q2) WAP to read the contents of a file and display them in proper format.
+q3) WAP to display the contents of a file line by line.
+q4) WAP to count the number of spaces in a file.
+q5) WAP to count number of characters and words in a file.
+q6) WAP to read only the numbers in a file and perform their addition.
+Assume numbers are written with spaces in a file.
+q7) WAP to find the longest word in a file.
