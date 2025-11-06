@@ -1,0 +1,4 @@
+//WAP to apply bitwise or,and, not operators.
+//WAP to apply left shift and right shift operator.
+//WAP to show the use of dynamic memory allocation and implement calloc or malloc function.
+//WAP to show the use of realloc and free.
